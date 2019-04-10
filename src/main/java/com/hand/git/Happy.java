@@ -7,6 +7,7 @@ public class Happy {
 		System.out.println("hot_a");
 		System.out.println("hot_b");
 		System.out.println("456");
+		System.out.println("123");
 	}
 
 }
