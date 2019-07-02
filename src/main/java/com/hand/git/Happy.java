@@ -7,6 +7,7 @@ public class Happy {
 		System.out.println("T1000");
 		System.out.println("T2000");
 		System.out.println("3");
+		System.out.println("2t");
 	}
 
 }
